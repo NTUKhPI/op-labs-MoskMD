@@ -1,4 +1,4 @@
-// Lab1.cpp : This file contains the 'main' function. Program execution begins and ends there.
+﻿// Лаб1_1.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
