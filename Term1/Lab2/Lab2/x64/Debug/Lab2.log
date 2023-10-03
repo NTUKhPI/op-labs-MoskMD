@@ -1,0 +1,4 @@
+﻿  Lab2.cpp
+C:\Users\Mark\Desktop\LP\Term1\Lab2\Lab2\Lab2.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Mark\Desktop\LP\Term1\Lab2\Lab2\Lab2.cpp(14,43): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Lab2.vcxproj -> C:\Users\Mark\Desktop\LP\Term1\Lab2\x64\Debug\Lab2.exe
