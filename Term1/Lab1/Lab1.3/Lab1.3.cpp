@@ -1,14 +1,14 @@
-#include <iostream>
+#include <cstdio>
 
 int main() {
-    int base = 2; 
-    int result = base; 
+    int base = 2;
+    int result = base;
 
-    result = result * result; // Перше множення (в квадрат)
-    result = result * result; // Друге множення (в четверту ступінь)
-    result = result * result; // Третє множення (в восьму ступінь)
+    result = result * result; 
+    result = result * result; 
+    result = result * result; 
 
-    std::cout << "8th power of a number " << base << " = " << result << std::endl;
+    printf("8th power of a number %d = %d\n", base, result);
 
     return 0;
 }

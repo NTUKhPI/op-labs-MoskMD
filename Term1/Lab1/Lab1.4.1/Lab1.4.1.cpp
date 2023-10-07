@@ -8,7 +8,7 @@ int main() {
     a = b;
     b = temp;
 
-    std::cout << "a = " << a << ", b = " << b << std::endl;
+    printf("a = %d, b = %d\n", a, b);
 
     return 0;
 }
