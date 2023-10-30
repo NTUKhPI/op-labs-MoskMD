@@ -1,0 +1,4 @@
+﻿  Lab1.3.cpp
+C:\Users\Mark\Desktop\LP\Term1\Lab1\Lab1.3\Lab1.3.cpp(11,23): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Mark\Desktop\LP\Term1\Lab1\Lab1.3\Lab1.3.cpp(11,23): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Lab1.3.vcxproj -> C:\Users\Mark\Desktop\LP\Term1\Lab1\x64\Debug\Lab1.3.exe
