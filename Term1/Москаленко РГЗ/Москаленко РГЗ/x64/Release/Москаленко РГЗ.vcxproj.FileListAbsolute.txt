@@ -1,0 +1,3 @@
+C:\Users\Mark\Desktop\LP\Term1\Москаленко РГЗ\Москаленко РГЗ\x64\Release\Москаленко РГЗ.vcxproj.AssemblyReference.cache
+C:\Users\Mark\Desktop\LP\Term1\Москаленко РГЗ\Москаленко РГЗ\x64\Release\МоскаленкоРГЗ.MyForm.resources
+C:\Users\Mark\Desktop\LP\Term1\Москаленко РГЗ\Москаленко РГЗ\x64\Release\Москаленко РГЗ.vcxproj.GenerateResource.cache
