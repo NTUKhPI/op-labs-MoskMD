@@ -1,0 +1,12 @@
+Employee
+Omash Inow Govardenkovich
+operator
+5000
+Manager
+Emily Johnson Smith
+personnel management, data analysis, customer communication
+absent
+Expert
+Atlas Wheatley Sarah
+intelligence
+data analysis, expert evaluation, consultations and training
